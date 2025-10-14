@@ -1,0 +1,59 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Kotlin
+*.kotlin_module
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# NDK
+obj/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Heap dumps
+*.hprof
+
+# APK files
+*.apk
+*.aab
+
+# Build outputs
+android-app/app/build/
+android-app/build/

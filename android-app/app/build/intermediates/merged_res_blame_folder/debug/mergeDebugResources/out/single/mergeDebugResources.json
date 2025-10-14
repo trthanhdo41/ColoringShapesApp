@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.coloringshapes.app-debug-75:/drawable_ic_coloring_app.xml.flat",
+        "source": "com.example.coloringshapes.app-main-77:/drawable/ic_coloring_app.xml"
+    },
+    {
+        "merged": "com.example.coloringshapes.app-debug-75:/drawable_ic_launcher_coloring.xml.flat",
+        "source": "com.example.coloringshapes.app-main-77:/drawable/ic_launcher_coloring.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/9.0.0/com.example.coloringshapes.app-debug-75:/drawable_ic_launcher.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/9.0.0/com.example.coloringshapes.app-main-77:/drawable/ic_launcher.xml"
+    }
+]
